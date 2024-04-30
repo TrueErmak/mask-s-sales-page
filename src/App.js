@@ -25,9 +25,25 @@ const chessSets = [
       '/images/ony 3.jpg'
       
     ],
-    videos: [ ],
-    description: 'this was realy fun to make let me know if you want one for yourself. ',
+    videos: [
+      '/videos/palpatienOnEnder.mp4', // Add the video here
+],
+    description: 'this was realy fun to make let me know if you want one your self ',
+
+    id: 3,
+    title: 'v for vendeta mask',
+    images: [
+      '/images/anonomus mask.jpg',
+      '/images/A6.jpg'
+      
+      
+    ],
+    videos: ['/videos/v mask set up.mp4', ],
+    description: 'these print of fairly easy and i will be forther developing this mask as time gos on. ',
+
   },
+
+  
   
 ];
 
