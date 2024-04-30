@@ -6,36 +6,29 @@ import './styles.css';
 const chessSets = [
   {
     id: 1,
-    title: 'White & Black With Board',
-    images: ['/images/chess1.jpg',
-    '/images/chess3-2.jpeg',
-    '/images/chess2-1.jpeg'
+    title: '3d printed head for cosplay wigs',
+    images: ['/images/mankin 1.jpg',
+    '/images/manikin 2.jpg',
+    '/images/manikin 3.jpg',
+    '/images/manikin 4.jpg',
+    '/images/manikin 5.jpg'
   ],
     videos: [ ],
-    description: 'Description of Chess Set 1...',
+    description: 'this was 3d printed for cosplaying this can be a cheaper alternative to bying one in the store.',
   },
   {
     id: 2,
-    title: 'Star Wars Set',
+    title: 'ony devil mask',
     images: [
-      '/images/starWarsSet.jpg',
-      '/images/starwars wheel 1.jpg',
-      '/images/starwars wheel 3.jpg',
-      '/images/starwars wheel 5.jpg',
-      '/images/starwars wheel 6.jpg'
+      '/images/ony 1.jpg',
+      '/images/ony 2.jpg',
+      '/images/ony 3.jpg'
+      
     ],
-    videos: [
-      '/videos/palpatienOnEnder.mp4', // Add the video here
-    ],
-    description: 'Description of Star Wars Chess Set...',
-  },
-  {
-    id: 3,
-    title: 'Green and Blue Chess Set',
-    images: ['/images/chees 3.jpg',],
     videos: [ ],
-    description: 'This is a green and blue chess set. The pieces are nice to show off here.',
-  }
+    description: 'this was realy fun to make let me know if you want one for yourself. ',
+  },
+  
 ];
 
 
