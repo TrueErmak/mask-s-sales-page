@@ -25,11 +25,10 @@ const chessSets = [
       '/images/ony 3.jpg'
       
     ],
-    videos: [
-      '/videos/palpatienOnEnder.mp4', // Add the video here
-],
+    videos: [ ],
     description: 'this was realy fun to make let me know if you want one your self ',
-
+  },
+  {
     id: 3,
     title: 'v for vendeta mask',
     images: [
